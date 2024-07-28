@@ -1,12 +1,12 @@
-**Name:** MAHANTESH MA.
+**Name:** MAHANTESH MA
 
-**Company:** CODTECH IT SOLUTIONS.
+**Company:** CODTECH IT SOLUTIONS
 
-**ID:** CT4CC4124.
+**ID:** CT4CC4124
 
-**Domain:** CLOUD COMPUTING.
+**Domain:** CLOUD COMPUTING
 
-**Duration:** JULY 5th to AUGUST 5th.
+**Duration:** JULY 5th to AUGUST 5th
 
 **Mentor:** 
 
