@@ -8,7 +8,6 @@
 
 **Duration:** JULY 5th to AUGUST 5th
 
-**Mentor:** 
 
 
 ## Overview of the Project
